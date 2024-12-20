@@ -1,0 +1,8 @@
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\ThemeEngineLibrary\bin\Debug\ThemeEngineLibrary.dll
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\ThemeEngineLibrary\bin\Debug\ThemeEngineLibrary.pdb
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\ThemeEngineLibrary\bin\Debug\MaterialColorUtilities.dll
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\ThemeEngineLibrary\obj\Debug\ThemeEngineLibrary.csproj.AssemblyReference.cache
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\ThemeEngineLibrary\obj\Debug\ThemeEngineLibrary.csproj.CoreCompileInputs.cache
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\ThemeEngineLibrary\obj\Debug\ThemeEng.BB4E1436.Up2Date
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\ThemeEngineLibrary\obj\Debug\ThemeEngineLibrary.dll
+C:\MALIK DISC\M'X\Coding\DotNet\My Projects\ThemeEngineLibrary\obj\Debug\ThemeEngineLibrary.pdb
